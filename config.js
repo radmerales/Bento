@@ -43,21 +43,21 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'School',
+			icon: 'school',
+			link: 'https://uvle.upd.edu.ph/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Book',
+			icon: 'book',
+			link: 'http://libgen.rs/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '4',
@@ -125,46 +125,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'code',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Codeforces',
+					link: 'https://codeforces.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'LeetCode',
+					link: 'https://leetcode.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'CSES',
+					link: 'https://cses.fi/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Coursera',
+					link: 'https://www.coursera.org/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'mail',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Main',
+					link: 'https://mail.google.com/mail/u/0/#inbox',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Burner',
+					link: 'https://mail.google.com/mail/u/1/#inbox',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'UP',
+					link: 'https://mail.google.com/mail/u/2/#inbox',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'EEE',
+					link: 'https://mail.google.com/mail/u/3/#inbox',
 				},
 			],
 		},
